@@ -5,7 +5,7 @@ You can easily Scroll Up Down  with your custom layout, and there are many kinds
 
 # Demo
 
-<img src="/01.gif" width="200">    <img src="/02.gif" width="200">
+<img src="/refresh.gif" width="400">    
 
 Copy & Past this line in to your app level Gradle
 
