@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="flows">
+        <item>Join</item>
+        <item>Marge</item>
+        <item>Hillen</item>
+        <item>Droyed</item>
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Magento</item>
+        <item>Durrby</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+        <item>flutter</item>
+        <item>Toy</item>
+        <item>Ertiler</item>
+    </string-array>
+</resources>
