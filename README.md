@@ -49,7 +49,7 @@ First put the RefreshLayout view in your layout xml :
     </com.peenal.refreshview_lib.RefreshLayout>
 ```
 # With RecycerlView
-
+```
 <com.peenal.refreshview_lib.RefreshLayout
         android:id="@+id/refreshView"
         android:layout_width="match_parent"
@@ -69,8 +69,7 @@ First put the RefreshLayout view in your layout xml :
     </com.peenal.refreshview_lib.RefreshLayout>
  ```   
 # With ScrollView
-``` 
-<!-- TODO: Update blank fragment layout -->
+```
     <com.peenal.refreshview_lib.RefreshLayout
         android:id="@+id/refreshView"
         android:layout_width="match_parent"
