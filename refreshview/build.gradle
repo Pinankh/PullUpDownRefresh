@@ -1,5 +1,31 @@
 apply plugin: 'com.android.library'
 
+ext {
+
+    bintrayRepo = 'android'
+    bintrayName = 'pullUpDownRefresh'
+
+    publishedGroupId = 'com.github.patelpinal'
+    libraryName = 'pullUpDownRefresh'
+    artifact = 'pullUpDownRefresh'
+
+    libraryDescription = 'Simple, and easy android image slider with image and indicatore animation'
+
+    siteUrl = 'https://github.com/PatelPinal'
+    gitUrl = 'https://github.com/PatelPinal/PullUpDownRefresh.git'
+
+    libraryVersion = '1.0.0'
+    //organization = 'smarteistbintray' // if you push to organization's repository.
+    developerId = 'PatelPinal'
+    developerName = 'Peenalkumar'
+    developerEmail = 'pinalkumar.shalom@hotmail.com'
+
+    /*licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]*/
+
+}
+
 android {
     compileSdkVersion 28
 
@@ -8,7 +34,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
